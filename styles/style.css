@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;0,700;1,200&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700&display=swap');
+
+body{
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    overflow-x: hidden;
+
+}
+
+.header{
+    width: 100%;
+    color: #000;
+    justify-content: space-between;
+    position: relative;
+    z-index: 5;
+
+
+}
+.maaa{
+    margin-left: 250px;
+    color: #fff;
+    width: 500px;
+    font-size: 36px;
+}
+.maaa1{
+    margin-left: 250px;
+    color: #fff;
+    width: 500px;
+    font-size: 36px;
+}
+.header_nav{
+    display: flex;
+    padding-left: 120px;
+    padding-top:20px;
+    
+
+}
+.h_ul{
+    list-style: none;
+    display: flex;
+    padding-left:160px;
+}
+.item{
+    text-decoration: none;
+    color: #fff;
+
+}
+.h_li{
+    margin-left:5px;
+    width: 150px;
+    font-size: 13px;
+    font-weight: 400;
+    text-decoration: none;
+
+}
+.or_button{
+    margin-left: 20px;
+    height: 50px;
+    width: 140px;
+    background-color: #cf1846b0;
+    color: #fff;
+    border-radius: 6px;
+    border:none;
+    margin-top:2px;
+    cursor: pointer;
+    
+
+}
+
+.logoi{
+    width: 65px;
+    margin-top: -10px;
+}
+.diver{
+    background-color: #00000060;
+    width: 120%;
+    padding-right: 100px;
+    padding-left: 218px;
+    margin-left: -280px;
+    padding-top:222px;
+    margin-top: -250px;
+    padding-bottom: 88px;
+    border-radius: 2000px;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.85) 0%, rgba(202, 200, 200, 0.85) 350%), url(https://kartinkin.net/uploads/posts/2021-04/1617587590_16-p-kosmos-fon-chernii-16.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+
+   
+}
+.www{
+    display: block;
+}
+.car1{
+    margin: auto;
+    width: 350px;
+    margin-left: 240px;
+    margin-bottom: -50px;
+}
+.my{
+    width: 600px;
+    padding-top: 150px;
+    margin-left: 10px;
+
+}
+.pp{
+    font-weight: 300;
+    color: #fff;
+    width: 1200px;
+    margin-top: -10px;
+    text-align: center;
+    margin-left: -215px;
+    font-size: 18px;
+}
+.secc{
+    margin-top: 300px;
+}
+.lala{
+    margin-left: 220px;
+}
+.car2{
+    margin-left: 400px;
+    margin-top: -90px;
+    width: 350px;
+}
+.car3{
+    margin-left: 522px;
+    margin-bottom: -195px;
+    width: 380px;
+}
+
+.asas{
+    padding-bottom: 700px;
+    background-color: #ffffff;
+    margin-top: 100px;
+    
+}
+.circle{
+    width: 73px;
+    height: 73px;
+    border-radius: 50%;
+    background-image: url(https://kartinkin.net/uploads/posts/2021-04/1617587590_16-p-kosmos-fon-chernii-16.jpg);
+    margin-left: 63px;
+    margin-bottom: -57px;
+    position: relative;
+    z-index: 9;
+}
+.main_item{
+    font-size: 40px;
+    margin-left: 15px;
+    position: relative;
+    
+}
+.cartochka{
+    width: 215px;
+    height: 166px;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.85) 0%, rgba(202, 200, 200, 0.85) 300px), url(https://kartinkin.net/uploads/posts/2021-04/1617587590_16-p-kosmos-fon-chernii-16.jpg);
+
+    border-radius: 15px;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+}
+.econ{
+    margin-left: 68px;
+    padding-top: 55px;
+    font-size: 15px;
+    width: 400px;
+}
+.econh{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 300;
+
+}
+.visit2{
+    margin-left: 415px;
+    margin-top: -280px;    
+}
+.visit{
+    margin-left: 160px;
+    margin-bottom: 89px;
+
+}
+.visit3{
+    margin-left: 680px;
+    margin-top: -235px;
+
+}
+
